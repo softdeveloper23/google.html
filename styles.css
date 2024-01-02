@@ -23,3 +23,14 @@
     width: auto;
     cursor: pointer;
   }
+
+  .logo {
+    margin-bottom: 20px;
+  }
+
+  #advanced-text {
+    margin-top: 10px;
+    padding-left: 65px;
+    font-size: 25px;
+    color: red;
+  }
