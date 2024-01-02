@@ -4,19 +4,22 @@
     align-items: center;
     justify-content: center;
     height: 100vh; /* This will center the search bar vertically on the page */
-}
+  }
 
-.search-input {
+  .search-input {
     padding: 10px;
     font-size: 17px;
     border: 1px solid grey;
     border-radius: 25px; /* This will give the search bar rounded corners */
-    width: 50%; /* Adjust as needed */
-}
+    width: 50%;
+  }
 
-.search-button {
+  .search-button {
     padding: 10px;
     font-size: 17px;
     border: 1px solid grey;
+    border-radius: 25px; /* This will give the button rounded corners */
     margin-top: 10px; /* This will give some space between the search bar and the button */
-}
+    width: auto;
+    cursor: pointer;
+  }
